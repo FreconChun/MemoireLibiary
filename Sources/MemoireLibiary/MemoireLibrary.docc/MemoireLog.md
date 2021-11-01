@@ -2,7 +2,13 @@
 
 每天都来，记录工程
 
-
+## **2021.10.31-11.01** 【Git✅2021.11.01】
+    【MemoireUI】UIComponents继任者重磅出现
+    【MAttention】继承了大部分Overlay的设计，但是取消了popover，目前只有alert,banner,dialog（dialog为新增的） 因为fullscreencover会覆盖所有通知，但是一次只能显示一个fullscreencover。更好的专注于提醒这个功能
+    【MFont】更好的API,更简洁的实现方式
+    【MColor】删除了之前没啥用的MColorSet，之后的MColor可能只是小函数和拓展，因此文档将其归为设计规范（当然颜色的设计规范也已经同步完成）
+    【MUITools】做了一个在preview上点运行就会截下带有不透明度的视图 的工具
+    【MemoireUI-Library】上述的组件文档已经完成
 ----------------------------------------
 
 ## **2021.10.1x**
