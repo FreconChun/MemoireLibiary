@@ -47,8 +47,13 @@ https://www.cnblogs.com/motoyang/p/4858625.html
 
 ## ** CloudKit
 https://www.hackingwithswift.com/read/33/6/reading-from-icloud-with-cloudkit-ckqueryoperation-and-nspredicate
-
+https://www.hackingwithswift.com/read/33/7/working-with-cloudkit-records-ckrecordreference-fetchwithrecordid-and-save
 ## ** Combine
 https://zhuanlan.zhihu.com/p/154621268
 
+
 ![combine 课本]https://heckj.github.io/swiftui-notes/
+
+
+## ** FileManager**
+iOS路径 https://www.cnblogs.com/feiyu-mdm/p/5565515.html
